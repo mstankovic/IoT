@@ -1,3 +1,3 @@
 ## IoT
 
-Internet of Thing
+Internet of Things
